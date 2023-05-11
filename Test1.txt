@@ -1,0 +1,22 @@
+Pseudocode for reverse the number using while loop
+Input:123.
+Output:321.
+1-Procedure to reverse the number.
+2-initialize the variable r and s=0.
+3-repeat the step  while n>0 until condition pass.
+4-mod by 10 .
+5-print r
+6-number div by 10. 
+7-update the n.
+8-increament / decreament.
+9-End procedure. 
+
+Algorithm for student management system
+1-Start.
+2-check students attending or not.
+3-read n
+4-if n=attend.
+5-print present.
+6-else.
+7-print not present.
+8-Stop.
